@@ -1,0 +1,14 @@
+/Users/ajcunha/Library/Mobile Documents/com~apple~CloudDocs/C#/Homework/Wk7Ex1/Wk7Ex1/bin/Debug/net6.0/Wk7Ex1
+/Users/ajcunha/Library/Mobile Documents/com~apple~CloudDocs/C#/Homework/Wk7Ex1/Wk7Ex1/bin/Debug/net6.0/Wk7Ex1.deps.json
+/Users/ajcunha/Library/Mobile Documents/com~apple~CloudDocs/C#/Homework/Wk7Ex1/Wk7Ex1/bin/Debug/net6.0/Wk7Ex1.runtimeconfig.json
+/Users/ajcunha/Library/Mobile Documents/com~apple~CloudDocs/C#/Homework/Wk7Ex1/Wk7Ex1/bin/Debug/net6.0/Wk7Ex1.dll
+/Users/ajcunha/Library/Mobile Documents/com~apple~CloudDocs/C#/Homework/Wk7Ex1/Wk7Ex1/bin/Debug/net6.0/Wk7Ex1.pdb
+/Users/ajcunha/Library/Mobile Documents/com~apple~CloudDocs/C#/Homework/Wk7Ex1/Wk7Ex1/obj/Debug/net6.0/Wk7Ex1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajcunha/Library/Mobile Documents/com~apple~CloudDocs/C#/Homework/Wk7Ex1/Wk7Ex1/obj/Debug/net6.0/Wk7Ex1.AssemblyInfoInputs.cache
+/Users/ajcunha/Library/Mobile Documents/com~apple~CloudDocs/C#/Homework/Wk7Ex1/Wk7Ex1/obj/Debug/net6.0/Wk7Ex1.AssemblyInfo.cs
+/Users/ajcunha/Library/Mobile Documents/com~apple~CloudDocs/C#/Homework/Wk7Ex1/Wk7Ex1/obj/Debug/net6.0/Wk7Ex1.csproj.CoreCompileInputs.cache
+/Users/ajcunha/Library/Mobile Documents/com~apple~CloudDocs/C#/Homework/Wk7Ex1/Wk7Ex1/obj/Debug/net6.0/Wk7Ex1.dll
+/Users/ajcunha/Library/Mobile Documents/com~apple~CloudDocs/C#/Homework/Wk7Ex1/Wk7Ex1/obj/Debug/net6.0/refint/Wk7Ex1.dll
+/Users/ajcunha/Library/Mobile Documents/com~apple~CloudDocs/C#/Homework/Wk7Ex1/Wk7Ex1/obj/Debug/net6.0/Wk7Ex1.pdb
+/Users/ajcunha/Library/Mobile Documents/com~apple~CloudDocs/C#/Homework/Wk7Ex1/Wk7Ex1/obj/Debug/net6.0/Wk7Ex1.genruntimeconfig.cache
+/Users/ajcunha/Library/Mobile Documents/com~apple~CloudDocs/C#/Homework/Wk7Ex1/Wk7Ex1/obj/Debug/net6.0/ref/Wk7Ex1.dll
